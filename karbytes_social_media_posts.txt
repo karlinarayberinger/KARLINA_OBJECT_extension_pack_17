@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 28_JUNE_2024
+ * date: 30_JUNE_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -267,3 +267,15 @@ https://karbytesforlifeblog.wordpress.com/karbytes_28_june_2024/
 On 28_JUNE_2024 at approximately 10:30PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
 
 https://karbytesforlifeblog.wordpress.com/karbytes_29_june_2024/
+
+* * *
+
+On 29_JUNE_2024 at approximately 9:00PM Pacific Standard Time, karbytes shared the following news article as a social media post on karbytes' Twitter dot Com page and on karbytes' Minds dot Com page:
+
+https://amp.theguardian.com/technology/article/2024/jun/29/ray-kurzweil-google-ai-the-singularity-is-nearer
+
+* * *
+
+On 30_JUNE_2024 at approximately 12:00AM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/karbytes_30_june_2024/
