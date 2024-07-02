@@ -10,6 +10,8 @@ The following text was copy-pasted from a conversation which karbytes had with 
 
 (Note that the chat user handle which did not appear on the ChatGPT web page chat interface appears as “karbytes” in this plain-text note. Note also that karbytes had to manually insert the numbers prefacing some of ChatGPT’s text output because those numbers were not copied over. Also, karbytes manually inserted dash symbols (“-“) where ChatGPT printed bullet points (and those bullet point characters were also not copied over into this plain-text note)).
 
+(Note that karbytes replaced ChatGPT's output of an image with a Uniform Resource Locator pointing to a copy of that image which is hosted on exactly one GitHub repository which hosts exclusively karbytes intellectual property).
+
 * * *
 
 karbytes
