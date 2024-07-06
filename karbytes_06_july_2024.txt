@@ -1,10 +1,10 @@
 /**
-* file: karbytes_06_july_2024.txt
-* type: plain-text
-* date: 05_JULY_2024
-* author: karbytes
-* license: PUBLIC_DOMAIN
-*/
+  * file: karbytes_06_july_2024.txt
+  * type: plain-text
+  * date: 05_JULY_2024
+  * author: karbytes
+  * license: PUBLIC_DOMAIN
+  */
 
 To Whom It May Concern:
 
