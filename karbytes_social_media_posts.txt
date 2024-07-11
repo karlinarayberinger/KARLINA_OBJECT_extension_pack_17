@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 10_JULY_2024
+ * date: 11_JULY_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -389,3 +389,9 @@ https://theconversation.com/we-need-to-consider-alternatives-to-dark-matter-that
 On 10_JULY_2024 at approximately 4:00PM Pacific Standard Time, karbytes shared the following news article as a social media post on karbytes' Twitter dot Com page and on karbytes' Minds dot Com page:
 
 https://www.notateslaapp.com/tesla-reference/755/everything-we-know-about-the-tesla-robotaxi
+
+* * *
+
+On 11_JULY_2024 at approximately 1:30PM Pacific Standard Time, karbytes shared the following news article as a social media post on karbytes' Twitter dot Com page and on karbytes' Minds dot Com page:
+
+https://www.notebookcheck.net/XPeng-replacing-LiDAR-with-Tesla-s-camera-only-FSD-approach-as-Beijing-sets-self-driving-Robotaxi-rules.860873.0.html
