@@ -107,6 +107,7 @@ How do I use the script you provided to transcribe that audio file from speech t
 ChatGPT
 
 To use the script provided for transcribing your audio file from speech to text, follow these steps:
+
 Step 1: Install the Required Libraries
 
 First, ensure you have Python installed on your system. Then, open your command prompt or terminal and install the necessary libraries:
@@ -118,6 +119,7 @@ pip install speechrecognition pydub
 Step 2: Save the Audio File Locally
 
 Download the audio file from our conversation and save it to a location on your computer, for example, C:/path_to_your_file/karbytes_at_warm_springs_bart_station_17_february_2023.mp3.
+
 Step 3: Create the Transcription Script
 
 Create a new Python script file, e.g., transcribe_audio.py, and copy the following code into it. Make sure to update the audio_path variable with the path to your saved audio file.
@@ -173,6 +175,7 @@ ChatGPT
 The error you're encountering suggests there may be an issue with the version or the availability of the recognize_google method in the speech_recognition library.
 
 Let's adjust the script to ensure it's using the correct method and verify that you have the right library installed. Here is an updated script:
+
 Step-by-Step Guide:
 
     Ensure you have the correct library:
@@ -474,6 +477,7 @@ ChatGPT
 The error you're encountering suggests that the recognize_google method is not available or recognized in your environment. This might be due to issues with the installation of the speech_recognition library or its dependencies.
 
 To resolve this issue, let's ensure you have everything set up correctly. Follow these steps:
+
 Step-by-Step Guide
 
     Ensure the Correct Installation of Required Libraries
