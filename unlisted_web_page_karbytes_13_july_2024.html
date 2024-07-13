@@ -1,0 +1,750 @@
+<hr />
+<p><strong>karbytes_13_july_2024</strong></p>
+<hr>
+<p><span style="background: #ffff00">The text in the web page section below was copied from the plain-text file named <a style="background: #000000;color: #ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/karbytes_13_july_2024.txt" target="_blank" rel="noopener">karbytes_13_july_2024.txt</a> in the “micro directory” website section named <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_17/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_17</a> in the “macro directory” website section (named <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_macro_directory/" target="_blank" rel="noopener">RAW_GITHUB_FILES_MACRO_DIRECTORY</a>) of the website named <a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/" target="_blank" rel="noopener">Karbytes For Life Blog dot WordPress dot Com</a>. Some of the aforementioned copied <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/Plain_text" target="_blank" rel="noopener">plain-text</a> was then replaced with relevant <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/Hypertext" target="_blank" rel="noopener">hypertext</a> on this web page.</span></p>
+<p><em>To view hidden text inside the preformatted text box below, scroll horizontally.</em></p>
+<hr />
+<pre>
+/**
+ * file: <a style="background: #000000;color: #ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/karbytes_13_july_2024.txt" target="_blank" rel="noopener">karbytes_13_july_2024.txt</a>
+ * type: plain-text
+ * date: 12_JULY_2024
+ * author: <a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/about_karbytes/" target="_blank" rel="noopener">karbytes</a>
+ * license: PUBLIC_DOMAIN
+ */
+
+The following text was copy-pasted from a conversation which karbytes had with ChatGPT-4o (which is newer version of <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/ChatGPT" target="_blank" rel="noopener">ChatGPT</a> than is ChatGPT-4) on 09_JULY_2024 at approximately 6:30PM Pacific Standard Time.
+
+(Note that the chat user handle which did not appear on the ChatGPT web page chat interface appears as “karbytes” in this plain-text note. Note also that karbytes had to manually insert the numbers prefacing some of ChatGPT’s text output because those numbers were not copied over).
+
+
+* * *
+
+<span style="background:#00ff00">The mp3 audio file which is featured in this journal entry was taken from the mp4 video file at the following Uniform Resource Locator: <a style="background: #000000;color: #ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_2/main/instagram_karbytes_28_september_2023_part_0.mp4" target="_blank" rel="noopener">https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_2/main/instagram_karbytes_28_september_2023_part_0.mp4</a></span>
+
+<span style="background:#00ff00">The py file which karbytes ran via the Kubuntu command line terminal is available at the following Uniform Resource Locator: <a style="background: #000000;color: #ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/transcribe_audio.py/" target="_blank" rel="noopener">https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/transcribe_audio.py</a></span>
+
+* * *
+
+karbytes
+
+Transcribe the following audio file from speech to text: [karbytes_at_warm_springs_bart_station_17_february_2023.mp3]
+
+ChatGPT
+
+python
+Always show details
+
+import speech_recognition as sr
+
+# Path to the audio file
+audio_path = "/mnt/data/karbytes_at_warm_springs_bart_station_17_february_2023.mp3"
+
+# Initialize recognizer
+recognizer = sr.Recognizer()
+
+# Convert mp3 to audio data
+with sr.AudioFile(audio_path) as source:
+    audio_data = recognizer.record(source)
+
+# Recognize speech using Google Web Speech API
+try:
+    text = recognizer.recognize_google(audio_data)
+except sr.UnknownValueError:
+    text = "Google Web Speech API could not understand the audio."
+except sr.RequestError as e:
+    text = f"Could not request results from Google Web Speech API; {e}"
+
+text
+
+---------------------------------------------------------------------------
+ModuleNotFoundError                       Traceback (most recent call last)
+Cell In[1], line 1
+----&gt; 1 import speech_recognition as sr
+      3 # Path to the audio file
+      4 audio_path = "/mnt/data/karbytes_at_warm_springs_bart_station_17_february_2023.mp3"
+
+ModuleNotFoundError: No module named 'speech_recognition'
+
+It seems that the necessary module for speech recognition is not available in this environment. I recommend using a local setup or an online speech-to-text service for transcribing the audio file.
+
+Here's how you can do it locally using Python:
+
+    Install the speech_recognition library:
+
+    sh
+
+    pip install speechrecognition pydub
+
+    Use the following script to transcribe the audio file:
+
+python
+
+import speech_recognition as sr
+from pydub import AudioSegment
+
+# Path to the audio file
+audio_path = "path_to_your_file/karbytes_at_warm_springs_bart_station_17_february_2023.mp3"
+
+# Convert mp3 to wav
+sound = AudioSegment.from_mp3(audio_path)
+sound.export("converted.wav", format="wav")
+
+# Initialize recognizer
+recognizer = sr.Recognizer()
+
+# Convert wav to audio data
+with sr.AudioFile("converted.wav") as source:
+    audio_data = recognizer.record(source)
+
+# Recognize speech using Google Web Speech API
+try:
+    text = recognizer.recognize_google(audio_data)
+    print("Transcription: ", text)
+except sr.UnknownValueError:
+    print("Google Web Speech API could not understand the audio.")
+except sr.RequestError as e:
+    print(f"Could not request results from Google Web Speech API; {e}")
+
+If you prefer an online tool, you can upload the file to a service like Google Cloud Speech-to-Text or any other transcription service. Let me know if you need more assistance with this! 
+
+karbytes
+
+How do I use the script you provided to transcribe that audio file from speech to text?
+
+ChatGPT
+
+To use the script provided for transcribing your audio file from speech to text, follow these steps:
+Step 1: Install the Required Libraries
+
+First, ensure you have Python installed on your system. Then, open your command prompt or terminal and install the necessary libraries:
+
+sh
+
+pip install speechrecognition pydub
+
+Step 2: Save the Audio File Locally
+
+Download the audio file from our conversation and save it to a location on your computer, for example, C:/path_to_your_file/karbytes_at_warm_springs_bart_station_17_february_2023.mp3.
+Step 3: Create the Transcription Script
+
+Create a new Python script file, e.g., transcribe_audio.py, and copy the following code into it. Make sure to update the audio_path variable with the path to your saved audio file.
+
+python
+
+import speech_recognition as sr
+from pydub import AudioSegment
+
+# Path to the audio file
+audio_path = "C:/path_to_your_file/karbytes_at_warm_springs_bart_station_17_february_2023.mp3"
+
+# Convert mp3 to wav
+sound = AudioSegment.from_mp3(audio_path)
+sound.export("converted.wav", format="wav")
+
+# Initialize recognizer
+recognizer = sr.Recognizer()
+
+# Convert wav to audio data
+with sr.AudioFile("converted.wav") as source:
+    audio_data = recognizer.record(source)
+
+# Recognize speech using Google Web Speech API
+try:
+    text = recognizer.recognize_google(audio_data)
+    print("Transcription: ", text)
+except sr.UnknownValueError:
+    print("Google Web Speech API could not understand the audio.")
+except sr.RequestError as e:
+    print(f"Could not request results from Google Web Speech API; {e}")
+
+Step 4: Run the Script
+
+Navigate to the directory where you saved transcribe_audio.py using your command prompt or terminal. Then, run the script with Python:
+
+sh
+
+python transcribe_audio.py
+
+The script will convert the MP3 file to WAV format, recognize the speech in the audio file, and print the transcription to the console.
+
+Summary
+
+By following these steps, you should be able to transcribe the audio file from speech to text using the provided script. If you encounter any issues or need further assistance, feel free to ask!
+
+karbytes
+
+When I ran the script, I encountered the following error message: 'Recognizer' object has no attribute 'recognize_google'. Did you mean: 'recognize_azure'?
+
+ChatGPT
+
+The error you're encountering suggests there may be an issue with the version or the availability of the recognize_google method in the speech_recognition library.
+
+Let's adjust the script to ensure it's using the correct method and verify that you have the right library installed. Here is an updated script:
+Step-by-Step Guide:
+
+    Ensure you have the correct library:
+
+    Ensure you have the speechrecognition library installed. You can install it using the following command:
+
+    sh
+
+    pip install SpeechRecognition pydub
+
+    Check if the method exists:
+
+    If the error persists, try using another method available in the speech_recognition library.
+
+Updated Script:
+
+python
+
+import speech_recognition as sr
+from pydub import AudioSegment
+
+# Path to the audio file
+audio_path = "C:/path_to_your_file/karbytes_at_warm_springs_bart_station_17_february_2023.mp3"
+
+# Convert mp3 to wav
+sound = AudioSegment.from_mp3(audio_path)
+sound.export("converted.wav", format="wav")
+
+# Initialize recognizer
+recognizer = sr.Recognizer()
+
+# Convert wav to audio data
+with sr.AudioFile("converted.wav") as source:
+    audio_data = recognizer.record(source)
+
+# Recognize speech using Google Web Speech API
+try:
+    text = recognizer.recognize_google(audio_data)
+    print("Transcription: ", text)
+except AttributeError:
+    print("Recognizer object does not have 'recognize_google' method.")
+except sr.UnknownValueError:
+    print("Google Web Speech API could not understand the audio.")
+except sr.RequestError as e:
+    print(f"Could not request results from Google Web Speech API; {e}")
+
+Alternative Approach (Using Azure):
+
+If the recognize_google method is unavailable, you can use an alternative method like recognize_azure. However, using Azure requires an Azure subscription and API key.
+
+Here's how you can use recognize_azure:
+
+    Install Azure SDK:
+
+    sh
+
+    pip install azure-cognitiveservices-speech
+
+    Update the Script to Use Azure:
+
+    Update the script to use Azure Speech-to-Text. You'll need your Azure subscription key and region.
+
+python
+
+import azure.cognitiveservices.speech as speechsdk
+
+def recognize_from_audio(audio_file):
+    speech_config = speechsdk.SpeechConfig(subscription="YourAzureSubscriptionKey", region="YourAzureRegion")
+    audio_input = speechsdk.AudioConfig(filename=audio_file)
+    speech_recognizer = speechsdk.SpeechRecognizer(speech_config=speech_config, audio_config=audio_input)
+    
+    result = speech_recognizer.recognize_once()
+    
+    if result.reason == speechsdk.ResultReason.RecognizedSpeech:
+        return result.text
+    elif result.reason == speechsdk.ResultReason.NoMatch:
+        return "No speech could be recognized"
+    elif result.reason == speechsdk.ResultReason.Canceled:
+        cancellation_details = result.cancellation_details
+        return f"Speech Recognition canceled: {cancellation_details.reason}. Error details: {cancellation_details.error_details}"
+
+audio_path = "C:/path_to_your_file/karbytes_at_warm_springs_bart_station_17_february_2023.mp3"
+sound = AudioSegment.from_mp3(audio_path)
+sound.export("converted.wav", format="wav")
+
+transcription = recognize_from_audio("converted.wav")
+print("Transcription: ", transcription)
+
+Replace "YourAzureSubscriptionKey" and "YourAzureRegion" with your actual Azure subscription key and region.
+
+Summary
+
+By following these steps, you should be able to transcribe your audio file from speech to text. If you encounter any further issues, please let me know!
+
+karbytes
+
+How do I uninstall and reinstall Python such that I can use the python command instead of the python3 command?
+
+ChatGPT
+
+To uninstall and reinstall Python so that you can use the python command instead of python3, follow these steps:
+
+Windows
+
+    Uninstall Python:
+        Open the Control Panel.
+        Go to "Programs and Features."
+        Find Python in the list, select it, and click "Uninstall."
+
+    Download Python:
+        Go to the official Python website.
+        Download the latest version of Python for Windows.
+
+    Install Python:
+        Run the installer.
+        Make sure to check the box that says "Add Python to PATH."
+        Follow the installation instructions.
+
+    Verify Installation:
+        Open Command Prompt.
+        Type python --version and press Enter. You should see the installed Python version.
+
+macOS
+
+    Uninstall Python:
+        Open Terminal.
+        Use brew to uninstall Python if it was installed via Homebrew:
+
+        sh
+
+brew uninstall python@3.x
+
+For other installations, you might need to remove the Python directories manually:
+
+sh
+
+    sudo rm -rf /Library/Frameworks/Python.framework/Versions/3.x
+    sudo rm -rf "/Applications/Python 3.x"
+
+Download Python:
+
+    Go to the official Python website.
+    Download the latest version of Python for macOS.
+
+Install Python:
+
+    Run the installer.
+    Follow the installation instructions.
+
+Update PATH:
+
+    Open Terminal.
+    Add Python to your PATH by editing your .bash_profile, .zshrc, or .bashrc file:
+
+    sh
+
+export PATH="/usr/local/bin/python3:$PATH"
+
+Source the updated file:
+
+sh
+
+    source ~/.bash_profile
+
+Create a Symlink (if necessary):
+
+    If python still points to Python 2.x, create a symlink for python3 as python:
+
+    sh
+
+        sudo ln -s -f /usr/local/bin/python3 /usr/local/bin/python
+
+    Verify Installation:
+        Open Terminal.
+        Type python --version and press Enter. You should see the installed Python version.
+
+Linux
+
+    Uninstall Python:
+        Open Terminal.
+        Use your package manager to uninstall Python 3.x. For example, on Ubuntu:
+
+        sh
+
+    sudo apt-get remove python3.x
+
+Download Python:
+
+    Go to the official Python website.
+    Download the latest version of Python for Linux.
+
+Install Python:
+
+    Extract the downloaded file and navigate to the extracted directory.
+    Install Python by running:
+
+    sh
+
+    ./configure
+    make
+    sudo make install
+
+Update Alternatives (if necessary):
+
+    On some distributions, you may need to update the alternatives system:
+
+    sh
+
+        sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.x 1
+
+    Verify Installation:
+        Open Terminal.
+        Type python --version and press Enter. You should see the installed Python version.
+
+By following these steps, you should be able to uninstall and reinstall Python such that the python command points to Python 3.x. If you encounter any issues, feel free to ask for further assistance!
+
+karbytes
+
+How do I download the latest version of Python for Ubuntu using the command line?
+
+ChatGPT
+
+To download and install the latest version of Python for Ubuntu using the command line, follow these steps:
+
+Step-by-Step Guide:
+
+    Update the package list and upgrade the packages:
+
+    Open Terminal and run:
+
+    sh
+
+sudo apt update
+sudo apt upgrade
+
+Install dependencies:
+
+Install the necessary dependencies for building Python from source:
+
+sh
+
+sudo apt install -y build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev curl libbz2-dev
+
+Download the latest version of Python:
+
+Navigate to the Python downloads page to find the latest version, then download it using wget. As of now, let's assume the latest version is 3.11.4. Replace 3.11.4 with the latest version if it changes.
+
+sh
+
+wget https://www.python.org/ftp/python/3.11.4/Python-3.11.4.tgz
+
+Extract the tarball:
+
+sh
+
+tar -xf Python-3.11.4.tgz
+
+Navigate to the extracted directory:
+
+sh
+
+cd Python-3.11.4
+
+Configure the build:
+
+sh
+
+./configure --enable-optimizations
+
+The --enable-optimizations flag will optimize the Python binary, which can make the build process take longer but result in a faster Python interpreter.
+
+Build and install Python:
+
+Use make to build and make install to install. The -j flag speeds up the build process by using multiple CPU cores. Replace 4 with the number of cores you want to use.
+
+sh
+
+make -j 4
+sudo make altinstall
+
+Note: make altinstall is used to prevent overwriting the default python3 binary.
+
+Verify the installation:
+
+Check the installed Python version:
+
+sh
+
+    python3.11 --version
+
+By following these steps, you should have the latest version of Python installed on your Ubuntu system. The new version will be available as python3.11 (or whichever version you installed), allowing you to keep the system's default Python interpreter intact.
+
+karbytes
+
+I encountered the following error: Recognizer object does not have 'recognize_google' method.
+
+ChatGPT
+
+The error you're encountering suggests that the recognize_google method is not available or recognized in your environment. This might be due to issues with the installation of the speech_recognition library or its dependencies.
+
+To resolve this issue, let's ensure you have everything set up correctly. Follow these steps:
+Step-by-Step Guide
+
+    Ensure the Correct Installation of Required Libraries
+
+    First, let's ensure you have speech_recognition and pydub installed correctly. Open your terminal and run:
+
+    sh
+
+pip install SpeechRecognition pydub
+
+Check the Library Version
+
+Sometimes, specific versions of a library may not have certain methods. Verify the version of speech_recognition:
+
+sh
+
+pip show SpeechRecognition
+
+You should see something like:
+
+vbnet
+
+Name: SpeechRecognition
+Version: 3.8.1
+Summary: Library for performing speech recognition, with support for several engines and APIs, online and offline.
+
+Make sure it is a compatible version.
+
+Simple Test Script
+
+Create a simple test script to check if recognize_google is available. Save the following script as test_speech_recognition.py:
+
+python
+
+import speech_recognition as sr
+
+recognizer = sr.Recognizer()
+print(dir(recognizer))
+
+Run the script:
+
+sh
+
+python test_speech_recognition.py
+
+Look for recognize_google in the printed list of methods. If it is not there, you might need to reinstall the library or check for conflicts.
+
+Reinstall the Library
+
+If recognize_google is not listed, try reinstalling the speech_recognition library:
+
+sh
+
+pip uninstall SpeechRecognition
+pip install SpeechRecognition
+
+Full Transcription Script
+
+If recognize_google is available, use the following complete script to transcribe your audio file:
+
+python
+
+import speech_recognition as sr
+from pydub import AudioSegment
+
+# Path to the audio file
+audio_path = "C:/path_to_your_file/karbytes_at_warm_springs_bart_station_17_february_2023.mp3"
+
+# Convert mp3 to wav
+sound = AudioSegment.from_mp3(audio_path)
+sound.export("converted.wav", format="wav")
+
+# Initialize recognizer
+recognizer = sr.Recognizer()
+
+# Convert wav to audio data
+with sr.AudioFile("converted.wav") as source:
+    audio_data = recognizer.record(source)
+
+# Recognize speech using Google Web Speech API
+try:
+    text = recognizer.recognize_google(audio_data)
+    print("Transcription: ", text)
+except AttributeError as e:
+    print("Recognizer object does not have 'recognize_google' method. Error:", e)
+except sr.UnknownValueError:
+    print("Google Web Speech API could not understand the audio.")
+except sr.RequestError as e:
+    print(f"Could not request results from Google Web Speech API; {e}")
+
+Run the Script
+
+Navigate to the directory where you saved transcribe_audio.py and run:
+
+sh
+
+    python transcribe_audio.py
+
+By following these steps, you should be able to diagnose and resolve the issue with the recognize_google method. If the problem persists, consider using a different speech recognition service, such as Azure or IBM Watson, which may require additional setup but can provide a workaround.
+
+karbytes
+
+I saw that recognize_google_cloud is an available method. Can that be used instead of recognize_google?
+
+ChatGPT
+
+Yes, you can use the recognize_google_cloud method instead of recognize_google. The recognize_google_cloud method utilizes Google Cloud Speech-to-Text API, which requires an API key and configuration.
+
+Here’s how you can modify the script to use recognize_google_cloud:
+Step-by-Step Guide
+
+    Set Up Google Cloud Speech-to-Text:
+        Go to the Google Cloud Console.
+        Create a new project or select an existing one.
+        Enable the Speech-to-Text API for your project.
+        Create a service account and download the JSON key file.
+
+    Install Google Cloud Client Library:
+
+    Install the necessary library to interact with Google Cloud Speech-to-Text:
+
+    sh
+
+pip install google-cloud-speech
+
+Set the Environment Variable:
+
+Set the GOOGLE_APPLICATION_CREDENTIALS environment variable to the path of your service account key file. You can do this in your terminal:
+
+sh
+
+export GOOGLE_APPLICATION_CREDENTIALS="/path_to_your_service_account_key.json"
+
+Or in your Python script:
+
+python
+
+import os
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/path_to_your_service_account_key.json"
+
+Modify the Transcription Script:
+
+Update your transcription script to use recognize_google_cloud:
+
+python
+
+import os
+import speech_recognition as sr
+from pydub import AudioSegment
+
+# Set the path to your service account key
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/path_to_your_service_account_key.json"
+
+# Path to the audio file
+audio_path = "C:/path_to_your_file/karbytes_at_warm_springs_bart_station_17_february_2023.mp3"
+
+# Convert mp3 to wav
+sound = AudioSegment.from_mp3(audio_path)
+sound.export("converted.wav", format="wav")
+
+# Initialize recognizer
+recognizer = sr.Recognizer()
+
+# Convert wav to audio data
+with sr.AudioFile("converted.wav") as source:
+    audio_data = recognizer.record(source)
+
+# Recognize speech using Google Cloud Speech-to-Text
+try:
+    text = recognizer.recognize_google_cloud(audio_data)
+    print("Transcription: ", text)
+except AttributeError as e:
+    print("Recognizer object does not have 'recognize_google_cloud' method. Error:", e)
+except sr.UnknownValueError:
+    print("Google Cloud Speech API could not understand the audio.")
+except sr.RequestError as e:
+    print(f"Could not request results from Google Cloud Speech API; {e}")
+
+Run the Script:
+
+Navigate to the directory where you saved your updated script and run it:
+
+sh
+
+    python transcribe_audio.py
+
+By following these steps, you should be able to use the recognize_google_cloud method to transcribe your audio file. Make sure you have correctly set up the Google Cloud Speech-to-Text API and that your service account key is correctly referenced.
+
+karbytes
+
+Is there an alternative to recognize_google_cloud which does not require that I have a service account or special keys?
+
+ChatGPT
+
+Yes, there are several alternatives to recognize_google_cloud that do not require a service account or special keys. One common alternative is the recognize_sphinx method, which uses CMU Sphinx, an open-source speech recognition system that works offline and does not require an API key.
+
+Here’s how you can modify your script to use recognize_sphinx:
+Step-by-Step Guide
+
+    Install Pocketsphinx:
+
+    You need to install Pocketsphinx, which is a part of the CMU Sphinx system. You can install it using the following command:
+
+    sh
+
+pip install pocketsphinx
+
+Modify the Transcription Script:
+
+Update your transcription script to use recognize_sphinx:
+
+python
+
+import speech_recognition as sr
+from pydub import AudioSegment
+
+# Path to the audio file
+audio_path = "C:/path_to_your_file/karbytes_at_warm_springs_bart_station_17_february_2023.mp3"
+
+# Convert mp3 to wav
+sound = AudioSegment.from_mp3(audio_path)
+sound.export("converted.wav", format="wav")
+
+# Initialize recognizer
+recognizer = sr.Recognizer()
+
+# Convert wav to audio data
+with sr.AudioFile("converted.wav") as source:
+    audio_data = recognizer.record(source)
+
+# Recognize speech using CMU Sphinx (offline)
+try:
+    text = recognizer.recognize_sphinx(audio_data)
+    print("Transcription: ", text)
+except AttributeError as e:
+    print("Recognizer object does not have 'recognize_sphinx' method. Error:", e)
+except sr.UnknownValueError:
+    print("CMU Sphinx could not understand the audio.")
+except sr.RequestError as e:
+    print(f"Could not request results from CMU Sphinx; {e}")
+
+Run the Script:
+
+Navigate to the directory where you saved your updated script and run it:
+
+sh
+
+    python transcribe_audio.py
+
+Summary
+
+Using recognize_sphinx is a great alternative if you prefer an offline solution that does not require an API key or internet connection. However, keep in mind that CMU Sphinx may not be as accurate as cloud-based services for certain accents or languages. If you need higher accuracy, you may want to explore other options or consider using a cloud-based service with proper authentication.
+
+* * *
+
+The following text was output to the command line after the <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank" rel="noopener">Python</a> script was run.
+
+<span style="background:#00ff00">Transcription:  and lit a car lights on the seventeenth of february he doesn't drink for you live at warm springs varsity occurring on</span>
+
+I was told by ChatGPT-4o that offline speech-to-text transcription services are not as likely to accurately transcribe audio files as are <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/Cloud_computing" target="_blank" rel="noopener">cloud-based</a> services. I will probably play around with such cloud-based services later and develop more sophisticated Python applications. The application featured in this journal entry is considered by me to be merely a "hello world" app instead of something I feel is more deserving of being showcased in my <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/software_engineering_portfolio/" target="_blank" rel="noopener">SOFTWARE_ENGINEERING_PORTFOLIO</a> web page of this website.
+
+Lastly, I was (during this session) not able to use the command python instead of python3 to execute the Python script which (badly (but not so badly the output bares no resemblance to the actual spoken message in the input audio file)) transcribed the input audio file.
+</pre>
+<hr />
+<p>This web page was last updated on 12_JULY_2024. The content displayed on this web page is licensed as <a style="background: #000000;color: #ff9000" href="https://karlinaobject.wordpress.com/public_domain/" target="_blank" rel="noopener">PUBLIC_DOMAIN</a> intellectual property.</p>
+<hr />
