@@ -13,3 +13,5 @@ By implication, in order for me to exist (as the unique hardware and software co
 * * *
 
 Idea: let the "blue collar" workers recieve an unconditional basic income sufficient to live on while "white collar" workers keep working to help pay for that unconditional basic income and, also, allocate a substantial portion of what is already spent on the United States of America's military sector towards funding that universal basic income. Eventually all "blue collar" jobs will be outsourced to robots (which means the total number of people receiving that unconditional basic income will not keep growing after a certain point in human civilization's history).
+
+Note that, in the context of this web page, "blue collar" implicitly refers to any job which humans want performed and which can be entirely automated (i.e. performed entirely by artificially intelligent machines). By contrast, "white collar" (in the context of this web page) implicitly refers to any job which humans want performed and which humans want to perform.
