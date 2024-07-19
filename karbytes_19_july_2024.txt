@@ -4,29 +4,35 @@
  * date: 19_JULY_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
- */ 
+ */
+
+The following text was copy-pasted from a conversation which karbytes had with ChatGPT-4o (which is newer version of ChatGPT than is ChatGPT-4) on 19_JULY_2024 at approximately 1:30PM Pacific Standard Time.
+
+(Note that the chat user handle which did not appear on the ChatGPT web page chat interface appears as “karbytes” in this plain-text note. Note also that karbytes had to manually insert the numbers prefacing some of ChatGPT’s text output because those numbers were not copied over. Also, karbytes manually inserted dash symbols (“-“) where ChatGPT printed bullet points (and those bullet point characters were also not copied over into this plain-text note)).
+
+* * *
 
 karbytes
 
-Does each individual WayBack Machine web page capture generate a new instance of the saved web page's copied source file in the WayBack Machine's database?
+Does each individual WayBack Machine web page capture generate a new instance of the saved web page’s copied source file in the WayBack Machine’s database?
 
 ChatGPT
 
-Yes, each individual WayBack Machine web page capture generates a new instance of the saved web page's copied source file in the WayBack Machine's database. This means that every time a web page is archived, a snapshot of that page, including its HTML, images, and other resources, is created and stored separately. These snapshots represent the state of the web page at the time of capture and are preserved as distinct records in the WayBack Machine's extensive archive.
+Yes, each individual WayBack Machine web page capture generates a new instance of the saved web page’s copied source file in the WayBack Machine’s database. This means that every time a web page is archived, a snapshot of that page, including its HTML, images, and other resources, is created and stored separately. These snapshots represent the state of the web page at the time of capture and are preserved as distinct records in the WayBack Machine’s extensive archive.
 
 karbytes
 
-Does what you say imply that, for each instance that I save a particular web page, X, of my blog in using the WayBack Machine "save now" form (which takes the Uniform Resource Locator of X as input), the total number of copies of X (i.e. an HTML file, program source file, image file, or video file) in the WayBack Machine's database (and encompassing World Wide Web (and encompassing (physical) "universe at large" (in the context of there being a possible multiverse which contains potentially limitlessly many separate ("parallel" or "serial") universes)) increases by some natural number of (simultaneous) instances?
+Does what you say imply that, for each instance that I save a particular web page, X, of my blog in using the WayBack Machine “save now” form (which takes the Uniform Resource Locator of X as input), the total number of copies of X (i.e. an HTML file, program source file, image file, or video file) in the WayBack Machine’s database (and encompassing World Wide Web (and encompassing (physical) “universe at large” (in the context of there being a possible multiverse which contains potentially limitlessly many separate (“parallel” or “serial”) universes)) increases by some natural number of (simultaneous) instances?
 
 ChatGPT
 
-Yes, what I said implies that each time you use the WayBack Machine's "save now" form to archive a specific web page (like a page from your blog), the total number of copies of that web page in the WayBack Machine's database increases by one. Each capture creates a new instance that reflects the state of the web page at the moment of capture. This new instance is a distinct record and does not overwrite previous captures.
+Yes, what I said implies that each time you use the WayBack Machine’s “save now” form to archive a specific web page (like a page from your blog), the total number of copies of that web page in the WayBack Machine’s database increases by one. Each capture creates a new instance that reflects the state of the web page at the moment of capture. This new instance is a distinct record and does not overwrite previous captures.
 
-So, every time you save the same web page, the total number of instances of that page in the WayBack Machine's database increases by one, leading to an accumulation of multiple snapshots over time. In the context of the broader universe or multiverse, each instance represents a discrete point-in-time copy of the web page's state, stored within the WayBack Machine's archival system.
+So, every time you save the same web page, the total number of instances of that page in the WayBack Machine’s database increases by one, leading to an accumulation of multiple snapshots over time. In the context of the broader universe or multiverse, each instance represents a discrete point-in-time copy of the web page’s state, stored within the WayBack Machine’s archival system.
 
 karbytes
 
-How often is the average web page (which has been saved to the WayBack Machine's database at least once) typically saved in that database?
+How often is the average web page (which has been saved to the WayBack Machine’s database at least once) typically saved in that database?
 
 ChatGPT
 
@@ -36,35 +42,35 @@ The frequency with which the Wayback Machine archives a web page can vary signif
 
 1. Popularity and Update Frequency: Popular websites that frequently update their content, such as news sites, are likely to be crawled more often. Some high-traffic sites may be captured multiple times a day, whereas less frequently updated or less popular sites may be archived less often, sometimes with weeks or even months between snapshots​ (Internet Archive)​​ (Internet Archive)​.
 
-2. Types of Web Crawls: The Wayback Machine uses various types of crawls, including those conducted by Alexa, ArchiveTeam, and Archive-It partners. These different sources contribute to the overall frequency of captures. For instance, Alexa's crawls may appear after a six-month delay, while ArchiveTeam and Archive-It crawls can vary based on their specific objectives and schedules (Internet Archive) (Internet Archive)
+2. Types of Web Crawls: The Wayback Machine uses various types of crawls, including those conducted by Alexa, ArchiveTeam, and Archive-It partners. These different sources contribute to the overall frequency of captures. For instance, Alexa’s crawls may appear after a six-month delay, while ArchiveTeam and Archive-It crawls can vary based on their specific objectives and schedules (Internet Archive) (Internet Archive)
 
-3. Manual Submissions: Users can manually submit URLs to be archived using the "Save Page Now" feature. This can result in multiple captures of the same page in a short period if users repeatedly submit the same URL (Internet Archive).
+3. Manual Submissions: Users can manually submit URLs to be archived using the “Save Page Now” feature. This can result in multiple captures of the same page in a short period if users repeatedly submit the same URL (Internet Archive).
 
 Overall, the average frequency is highly variable and depends on the specific circumstances of each website. Some pages might have numerous snapshots in a short period, while others might have long intervals between captures.
 
 karbytes
 
-How often are karbytes' websites saved to the WayBack Machine?
+How often are karbytes’ websites saved to the WayBack Machine?
 
 ChatGPT
 
-The frequency with which karbytes' websites are saved to the WayBack Machine can be checked by examining their capture history directly on the WayBack Machine. Here's how you can do this for each of the primary websites:
+The frequency with which karbytes’ websites are saved to the WayBack Machine can be checked by examining their capture history directly on the WayBack Machine. Here’s how you can do this for each of the primary websites:
 
 1. For karlinaobject.wordpress.com:
 
-- Visit the WayBack Machine.
-        
-- Enter https://karlinaobject.wordpress.com in the search bar.
-        
-- You will see a timeline that shows how often snapshots have been taken over the years.
+– Visit the WayBack Machine.
+
+– Enter https://karlinaobject.wordpress.com in the search bar.
+
+– You will see a timeline that shows how often snapshots have been taken over the years.
 
 2. For karbytesforlifeblog.wordpress.com:
-        
-- Visit the WayBack Machine.
-        
-- Enter https://karbytesforlifeblog.wordpress.com in the search bar.
-        
-- The timeline here will also show the frequency of snapshots over time.
+
+– Visit the WayBack Machine.
+
+– Enter https://karbytesforlifeblog.wordpress.com in the search bar.
+
+– The timeline here will also show the frequency of snapshots over time.
 
 These timelines will display the dates and frequency of each capture, allowing you to see how often these websites have been archived. Based on the search results, it appears there are multiple entries indicating routine archiving efforts, likely due to manual submissions and periodic crawls.
 
@@ -86,7 +92,7 @@ ChatGPT
 
 The latest memory update was:
 
-"Karbytes generated at least 98% of the WayBack Machine saves for its websites."
+“Karbytes generated at least 98% of the WayBack Machine saves for its websites.”
 
 This means that you, karbytes, were responsible for manually creating the vast majority of the archive snapshots of your websites on the WayBack Machine.
 
