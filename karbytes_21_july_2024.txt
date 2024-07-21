@@ -12,7 +12,7 @@ The following karbytes files pertain to karbytes’ explorations of Silicon Vall
 
 file_0_url: https://karbytesforlifeblog.wordpress.com/baylands_june_2024_tour_gallery/
 
-file_0_description: The file is an HTML web page is a collection of photographs which karbytes took which document karbytes’ June 2024 pedestrian travels from Warm Springs BART station in Fremont to Milpitas, then from Milpitas to San Jose, then from San Jose to Sunnyvale, then from Sunnyvale to Mountain View, then from Mountain View to Menlo Park, then from Menlo Park back to Fremont (using the Dumbarton Bridge) to traverse the bay.
+file_0_description: an HTML web page featuring a collection of photographs which karbytes took to document karbytes’ June 2024 pedestrian travels from Warm Springs BART station in Fremont to Milpitas, then from Milpitas to San Jose, then from San Jose to Sunnyvale, then from Sunnyvale to Mountain View, then from Mountain View to Menlo Park, then from Menlo Park back to Fremont (using the Dumbarton Bridge) to traverse the bay.
 
 * * *
 
