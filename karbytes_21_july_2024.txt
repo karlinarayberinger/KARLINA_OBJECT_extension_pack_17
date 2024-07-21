@@ -1,0 +1,123 @@
+/**
+ * file: karbytes_21_july_2024.txt
+ * type: plain-text
+ * date: 21_JULY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following karbytes files pertain to karbytes’ explorations of Silicon Valley during the months of June 2024 and July 2024.
+
+* * *
+
+file_0_url: https://karbytesforlifeblog.wordpress.com/baylands_june_2024_tour_gallery/
+
+file_0_description: The file is an HTML web page is a collection of photographs which karbytes took which document karbytes’ June 2024 pedestrian travels from Warm Springs BART station in Fremont to Milpitas, then from Milpitas to San Jose, then from San Jose to Sunnyvale, then from Sunnyvale to Mountain View, then from Mountain View to Menlo Park, then from Menlo Park back to Fremont (using the Dumbarton Bridge) to traverse the bay.
+
+* * *
+
+file_1_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_of_silicon_valley_california_google_earth_map_20july2024_p0.png
+
+file_1_description: a three-dimensional map of one of karbytes’ favorite Mountain View destinations (i.e. Specialty’s Bakery Cafe) and surrounding region which karbytes added a label to using the Google Earth web application.
+
+* * *
+
+file_2_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/specialtys_bakery_cafe_mountain_view_yelp_review_image_downloaded_by_karbytes_on_20july2024_p0.jpg
+
+file_2_description: an image which karbytes downloaded from the Yelp restaurant review website which depicts the interior of the aforementioned Specialty’s bakery cafe.
+
+* * *
+
+file_3_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/specialtys_bakery_cafe_mountain_view_yelp_review_image_downloaded_by_karbytes_on_20july2024_p1.jpg
+
+file_3_description: an image which karbytes downloaded from the Yelp restaurant review website which depicts a cup of black coffee and a box containing several bakery goods (i.e. cookies, pastries, muffins, bread rolls, et cetera) from the aforementioned Specialty’s bakery cafe and inside of that restaurant.
+
+* * *
+
+file_4_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_of_silicon_valley_california_google_earth_map_20july2024_p1.png
+
+file_4_description: a three-dimensional map of the entire region which karbytes walked as described by the aforementioned web page named baylands_june_2024_tour_gallery.
+
+* * *
+
+file_5_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_of_silicon_valley_california_google_earth_map_20july2024_p2.png
+
+file_5_description: a three-dimensional map which spans two labeled locations which karbytes has familiarity with (and those locations are (1) the DXC5 Amazon warehouse (which karbytes worked at from November 2023 to April 2024) in Fremont, California and (2) the aforementioned Speciality’s bakery cafe which karbytes started buying food and coffee from and using the Wi-Fi Internet at in June 2024).
+
+* * *
+
+file_6_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_of_silicon_valley_california_google_earth_map_20july2024_p3.png
+
+file_6_description: a three-dimensional map which spans three locations which karbytes labeled (and those locations are the aforementioned CXD5 warehouse in Fremont, California and two points along the trails which traverse the Alviso sloughs in San Jose, California (and those labeled two points along the Alviso slough trails were each assigned the same names as the MP4 video file which karbytes recorded at the respective point along those trails)).
+
+* * *
+
+file_7_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/alviso_slough_san_jose_california_09july2024.mp4
+
+file_7_description: one of the two aforementioned videos which karbytes recorded depicting a panoramic view of the Alviso sloughs (and that region is at the intersection of four paths and located closer to Fremont than is the other aforementioned point in the Alviso sloughs).
+
+* * *
+
+file_8_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/alviso_slough_sunnyvale_california_09july2024.mp4
+
+file_8_description: one of the two aforementioned videos which karbytes recorded depicting a panoramic view of the Alviso sloughs (and that region is located closer to Sunnyvale than is the other aforementioned point in the Alviso sloughs).
+
+* * *
+
+file_9_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_fremont_california_17july2024.mp4
+
+file_9_description: a panoramic video recording which karbytes made of a point along the Warm Springs trail south of the aforementioned DXC5 warehouse and of the road named Cushing which borders sprawling grasslands and salt flats shortly before sunrise and while many electrical lights in the surrounding distant industrial buildings were still powered on.
+
+* * *
+
+file_10_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_fremont_california_17july2024.jpg
+
+file_10_description: a still image taken from the same scene as what is depicted by the aforementioned video of Fremont grasslands and salt flats.
+
+* * *
+
+file_11_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_milpitas_california_18july2024.mp4
+
+file_11_description: a panoramic video recording which karbytes made of a point near a marshy body of water near the intersection of Dixon Road and Fremont Boulevard in Milpitas, California at which several construction trucks were busily moving dirt.
+
+* * *
+
+file_12_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_milpitas_california_18july2024.jpg
+
+file_12_description: a still image taken from the same scene as what is depicted by the aforementioned video of Milpitas near where Dixon Road and Fremont Boulevard intersect.
+
+* * *
+
+file_13_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_san_jose_california_18july2024.mp4
+
+file_13_description: a panoramic video recording which karbytes made of a point which karbytes thought was roughly equivalent to “the southeast corner” of the San Francisco Bay Area between Milpitas and San Jose along Coyote Creek Trail.
+
+* * *
+
+file_14_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_san_jose_california_18july2024.jpg
+
+file_14_description: a still image taken from the same scene as what is depicted by the aforementioned video of San Jose at what karbytes describes as “the southeast corner” of the San Francisco Bay Area between Milpitas and San Jose along Coyote Creek Trail.
+
+* * *
+
+file_15_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_sunnyvale_california_20july2024.mp4
+
+file_15_description: a panoramic video recording which karbytes made of a point along a trail bordering sloughs in Sunnyvale featuring aeration fountains which spewed vividly green (from algae) bay water.
+
+* * *
+
+file_16_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_sunnyvale_california_20july2024.jpg
+
+file_16_description: a still image taken from the same scene as what is depicted by the aforementioned video of Sunnyvale featuring fountains which aerate the relatively stagnant slough water which has green coloration due to that water having a high concentration of algae.
+
+* * *
+
+file_17_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_mountain_view_california_20july2024.mp4
+
+file_17_description: a panoramic video recording which karbytes made of a point along a trail bordering sloughs and distinctive architectural landmarks along the shore of Mountain View, California within a mile of the Computer History Museum.
+
+* * *
+
+file_18_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_mountain_view_california_20july2024.jpg
+
+file_18_description: a still image taken from the same scene as what is depicted by the aforementioned video of Mountain View featuring sloughs and distinctive architectural landmarks along the bay shore.
