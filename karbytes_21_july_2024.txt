@@ -1,7 +1,7 @@
 /**
  * file: karbytes_21_july_2024.txt
  * type: plain-text
- * date: 21_JULY_2024
+ * date: 24_JULY_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -121,3 +121,19 @@ file_17_description: a panoramic video recording which karbytes made of a point 
 file_18_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_mountain_view_california_20july2024.jpg
 
 file_18_description: a still image taken from the same scene as what is depicted by the aforementioned video of Mountain View featuring sloughs and distinctive architectural landmarks along the bay shore.
+
+* * *
+
+bonus_material
+
+* * *
+
+file_19_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_sunnyvale_california_24july2024.mp4
+
+file_19_description: a panoramic video recording which karbytes made of a point along a trail in the Sunnyvale sloughs (approximately 20 minutes before sunrise and with many building lights illuminating the edge of the bay) east of the region depicted by baylands_mountain_view_california_20july2024.mp4.
+
+* * *
+
+file_20_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_sunnyvale_california_24july2024.jpg
+
+file_20_description: a still image taken from the same scene as what is depicted by the aforementioned video of Sunnyvale sloughs featuring sloughs and distinctive architectural landmarks and electrical lights along the bay shore.
