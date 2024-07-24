@@ -136,4 +136,4 @@ file_19_description: a panoramic video recording which karbytes made of a point 
 
 file_20_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_sunnyvale_california_24july2024.jpg
 
-file_20_description: a still image taken from the same scene as what is depicted by the aforementioned video of Sunnyvale sloughs featuring sloughs and distinctive architectural landmarks and electrical lights along the bay shore.
+file_20_description: a still image taken from the same scene as what is depicted by the aforementioned video of Sunnyvale sloughs featuring early morning electrical lights along the bay shore in the background and sprawling marshes and ponds divided by slough trails.
