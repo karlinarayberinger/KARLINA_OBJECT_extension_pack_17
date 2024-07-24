@@ -18,7 +18,7 @@ file_0_description: an HTML web page featuring a collection of photographs which
 
 file_1_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_of_silicon_valley_california_google_earth_map_20july2024_p0.png
 
-file_1_description: a three-dimensional map of one of karbytes’ favorite Mountain View destinations (i.e. Specialty’s Bakery Cafe) and surrounding region which karbytes added a label to using the Google Earth web application.
+file_1_description: a still image taken of a three-dimensional map of one of karbytes’ favorite Mountain View destinations (i.e. Specialty’s Bakery Cafe) and surrounding region which karbytes added a label to using the Google Earth web application.
 
 * * *
 
@@ -36,19 +36,19 @@ file_3_description: an image which karbytes downloaded from the Yelp restaurant 
 
 file_4_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_of_silicon_valley_california_google_earth_map_20july2024_p1.png
 
-file_4_description: a three-dimensional map of the entire region which karbytes walked as described by the aforementioned web page named baylands_june_2024_tour_gallery.
+file_4_description: a still image taken of a three-dimensional Google Earth map of the entire region which karbytes walked as described by the aforementioned web page named baylands_june_2024_tour_gallery.
 
 * * *
 
 file_5_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_of_silicon_valley_california_google_earth_map_20july2024_p2.png
 
-file_5_description: a three-dimensional map which spans two labeled locations which karbytes has familiarity with (and those locations are (1) the DXC5 Amazon warehouse (which karbytes worked at from November 2023 to April 2024) in Fremont, California and (2) the aforementioned Speciality’s bakery cafe which karbytes started buying food and coffee from and using the Wi-Fi Internet at in June 2024).
+file_5_description: a still image taken of a three-dimensional Google Earth map which spans two labeled locations which karbytes has familiarity with (and those locations are (1) the DXC5 Amazon warehouse (which karbytes worked at from November 2023 to April 2024) in Fremont, California and (2) the aforementioned Speciality’s bakery cafe which karbytes started buying food and coffee from and using the Wi-Fi Internet at in June 2024).
 
 * * *
 
 file_6_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_of_silicon_valley_california_google_earth_map_20july2024_p3.png
 
-file_6_description: a three-dimensional map which spans three locations which karbytes labeled (and those locations are the aforementioned CXD5 warehouse in Fremont, California and two points along the trails which traverse the Alviso sloughs in San Jose, California (and those labeled two points along the Alviso slough trails were each assigned the same names as the MP4 video file which karbytes recorded at the respective point along those trails)).
+file_6_description: a still image taken of a three-dimensional Google Earth map which spans three locations which karbytes labeled (and those locations are the aforementioned CXD5 warehouse in Fremont, California and two points along the trails which traverse the Alviso sloughs in San Jose, California (and those labeled two points along the Alviso slough trails were each assigned the same names as the MP4 video file which karbytes recorded at the respective point along those trails)).
 
 * * *
 
@@ -128,12 +128,48 @@ bonus_material
 
 * * *
 
-file_19_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_sunnyvale_california_24july2024.mp4
+file_19_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_sunnyvale_california_24july2024_p0.mp4
 
 file_19_description: a panoramic video recording which karbytes made of a point along a trail in the Sunnyvale sloughs (approximately 20 minutes before sunrise and with many building lights illuminating the edge of the bay) east of the region depicted by baylands_mountain_view_california_20july2024.mp4.
 
 * * *
 
-file_20_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_sunnyvale_california_24july2024.jpg
+file_20_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_sunnyvale_california_24july2024_p0.jpg
 
-file_20_description: a still image taken from the same scene as what is depicted by the aforementioned video of Sunnyvale sloughs featuring early morning electrical lights along the bay shore in the background and sprawling marshes and ponds divided by slough trails.
+file_20_description: a still image taken from the same scene as what is depicted by the aforementioned video (i.e. baylands_sunnyvale_california_24july2024_p0.mp4) of Sunnyvale sloughs featuring early morning electrical lights along the bay shore in the background and sprawling marshes and ponds divided by slough trails.
+
+* * *
+
+file_21_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_sunnyvale_california_24july2024_p1.mp4
+
+file_21_description: a panoramic video recording which karbytes made of the region depicted by baylands_sunnyvale_california_24july2024_p0.mp4 (but baylands_sunnyvale_california_24july2024_p1.mp4 depicts that same region in the Sunnyvale sloughs approximately 20 minutes later with the sun rising, better visibility of the environment (due to increased natural lighting), and small birds flitting in and out of the camera view).
+
+* * *
+
+file_22_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_sunnyvale_california_24july2024_p1.jpg
+
+file_22_description: a still image taken from the same scene as what is depicted by the aforementioned video of Sunnyvale sloughs featuring the sunrise, small birds flying, and sprawling marshes and ponds whose perimeter is populated by many industrial and corporate buildings (including Hanger One at the Moffett Federal Airfield).
+
+* * *
+
+file_23_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_sunnyvale_california_24july2024_p2.jpg
+
+file_23_description: a still image taken from the aforementioned scene of Sunnyvale sloughs (depicted by baylands_sunnyvale_california_24july2024_p0.mp4 and baylands_sunnyvale_california_24july2024_p1.mp4) after traveling approximately fifty meters south (and baylands_sunnyvale_california_24july2024_p2.jpg prominently features the distinctive green coloration of the still, shallow pond water in the foreground with light blue water and gray and white buildings (including aircraft hangers at the Moffett Federal Airfield) in the background).
+
+* * *
+
+file_24_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_of_silicon_valley_california_google_earth_map_24july2024_p0.png
+
+file_24_description: a still image taken of a three-dimensional Google Earth map which spans all the Silicon Valley (or, more generally, South Bay of the San Francisco Bay Area) locations which karbytes labeled and created an MP4 panoramic video of as of 2:00PM Pacific Standard Time on 24_JULY_2024.
+
+* * *
+
+file_25_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_of_silicon_valley_california_google_earth_map_24july2024_p1.png
+
+file_25_description: a still image taken of a three-dimensional Google Earth map which spans the region karbytes traversed and made panoramic MP4 videos (e.g. baylands_milpitas_california_18july2024.mp4 and baylands_san_jose_california_18july2024.mp4) inside of within the past week (as of 2:00PM Pacific Standard Time on 24_JULY_2024) and which karbytes has referred to as “the southeast corner of the (San Francisco) Bay Area”.
+
+* * *
+
+file_26_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_of_silicon_valley_california_google_earth_map_24july2024_p2.png
+
+file_26_description: a still image taken of a three-dimensional Google Earth map which spans the region karbytes traversed and made panoramic MP4 videos (e.g. baylands_sunnyvale_california_20july2024.mp4, baylands_mountain_view_california_20july2024.mp4, baylands_sunnyvale_california_24july2024_p0.mp4, and baylands_sunnyvale_california_24july2024_p1.mp4) inside of within the past week (as of 2:00PM Pacific Standard Time on 24_JULY_2024) and which karbytes has come to mentally associate as being (mostly) a complex of Google campuses and other information technology corporate parks (with extensive bicycling trails permeating most of the wetlands spanning the part of the San Francisco Bay which is south of the Dumbarton Bridge). 
