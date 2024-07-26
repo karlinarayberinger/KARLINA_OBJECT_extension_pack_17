@@ -1,7 +1,7 @@
 /**
  * file: karbytes_21_july_2024.txt
  * type: plain-text
- * date: 24_JULY_2024
+ * date: 25_JULY_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -172,4 +172,48 @@ file_25_description: a still image taken of a three-dimensional Google Earth map
 
 file_26_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_of_silicon_valley_california_google_earth_map_24july2024_p2.png
 
-file_26_description: a still image taken of a three-dimensional Google Earth map which spans the region karbytes traversed and made panoramic MP4 videos (e.g. baylands_sunnyvale_california_20july2024.mp4, baylands_mountain_view_california_20july2024.mp4, baylands_sunnyvale_california_24july2024_p0.mp4, and baylands_sunnyvale_california_24july2024_p1.mp4) inside of within the past week (as of 2:00PM Pacific Standard Time on 24_JULY_2024) and which karbytes has come to mentally associate as being (mostly) a complex of Google campuses and other information technology corporate parks (with extensive bicycling trails permeating most of the wetlands spanning the part of the San Francisco Bay which is south of the Dumbarton Bridge). 
+file_26_description: a still image taken of a three-dimensional Google Earth map which spans the region karbytes traversed and made panoramic MP4 videos (e.g. baylands_sunnyvale_california_20july2024.mp4, baylands_mountain_view_california_20july2024.mp4, baylands_sunnyvale_california_24july2024_p0.mp4, and baylands_sunnyvale_california_24july2024_p1.mp4) inside of within the past week (as of 2:00PM Pacific Standard Time on 24_JULY_2024) and which karbytes has come to mentally associate as being (mostly) a complex of Google campuses and other information technology corporate parks (with extensive bicycling trails permeating most of the wetlands spanning the part of the San Francisco Bay which is south of the Dumbarton Bridge).
+
+* * *
+
+more_bonus_material
+
+* * *
+
+file_27_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_of_silicon_valley_california_google_earth_map_25july2024_p0.png
+
+file_28_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_of_silicon_valley_california_google_earth_map_25july2024_p1.png
+
+file_29_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_of_silicon_valley_california_google_earth_map_25july2024_p2.png
+
+* * *
+
+file_30_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_fremont_california_25july2024_p0.jpg
+
+file_31_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_fremont_california_25july2024_p0.mp4
+
+file_32_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_fremont_california_25july2024_p1.jpg
+
+file_33_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_fremont_california_25july2024_p1.mp4
+
+file_34_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_fremont_california_25july2024_p2.jpg
+
+file_35_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_fremont_california_25july2024_p2.mp4
+
+file_36_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_fremont_california_25july2024_p3.jpg
+
+* * *
+
+file_37_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_milpitas_california_25july2024.jpg
+
+file_38_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_milpitas_california_25july2024.mp4
+
+* * *
+
+file_39_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_san_jose_california_25july2024_p0.jpg
+
+file_40_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_san_jose_california_25july2024_p0.mp4
+
+file_41_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_san_jose_california_25july2024_p1.jpg
+
+file_42_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_san_jose_california_25july2024_p1.mp4
